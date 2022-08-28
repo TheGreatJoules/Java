@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Palindrome1 {
+public class Palindrome {
 	public int getNumberOfSwaps(String s) {
 		if (s == null || s.length() == 0) {
 			return -1;
