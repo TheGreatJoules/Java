@@ -1,4 +1,4 @@
-public class Solution {
+public class SubsetSumChallenge {
     /*
      * - Given an array of non negative numbers and a total:
      * - is there a subset of numbers in this array which adds up to given total
